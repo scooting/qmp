@@ -1,0 +1,10 @@
+/out/
+*.cmi
+*.cmo
+*.cmx
+*.cmxa
+*.o
+*.a
+/*.exe
+*.stackdump
+/out.txt
